@@ -2,7 +2,7 @@
  Api Informativa sobre los Instrumentos Musicales impartidos en el Sistema Nacional de Orquestas y Coros Infantiles y Juveniles de Venezuela para aprobar la 2da parte del curso Programacion FullStack en la UNET realizado en Octubre del 2024
 
 
-sitio: www.api-elsistema.vercel.com 
+sitio: www.api-elsistema.vercel.app
 
 Para instalar el proyecto necesitas instalar python
  
